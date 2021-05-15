@@ -2,7 +2,7 @@
 
 #### It automatically sends particular message and random message on whatsapp to the victim. You can send as many messages as you can in particular time interval.
 
-##### Just Made for learing purpose don't misuse it. 
+##### Just Made for learning purpose don't misuse it. 
 
 <h6>How to use ?</h6>
 
